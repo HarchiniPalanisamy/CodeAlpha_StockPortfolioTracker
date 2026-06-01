@@ -28,3 +28,11 @@ for i in range(num_stocks):
     else:
         print("Stock not found!")
 print("\nTotal Investment Value =", total_investment)
+
+file = open("portfolio.txt", "w")
+
+file.write("Total Investment Value = " + str(total_investment))
+
+file.close()
+
+print("Result saved in portfolio.txt")
