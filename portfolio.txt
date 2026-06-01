@@ -1,1 +1,11 @@
-Total Investment Value = 600
+Stock Portfolio Report
+
+Stock: APPLE
+Quantity: 2
+Investment: 360
+
+Stock: GOOGLE
+Quantity: 1
+Investment: 200
+
+Total Investment Value = 560
